@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1920" height="900" preserveAspectRatio="none" viewBox="0 0 1920 900">
+                    <g mask="url(&quot;#SvgjsMask1537&quot;)" fill="none">
+                        <rect width="1920" height="900" x="0" y="0" fill="url(&quot;#SvgjsLinearGradient1538&quot;)"></rect>
+                        <path d="M487 64.29L571.64 64.29L571.64 148.93L487 148.93z" stroke="#037b0b"></path>
+                        <path d="M304.22 577.42L389.93 577.42L389.93 663.13L304.22 663.13z" fill="#e73635"></path>
+                        <path d="M179.54 128.5a56.81 56.81 0 1 0-111.48-21.94z" stroke="#037b0b"></path>
+                        <path d="M970.94 339.16a54.39 54.39 0 1 0 21.73-106.58z" stroke="#037b0b"></path>
+                        <path d="M1809.31 47.86a48.29 48.29 0 1 0 54.6 79.67z" fill="#d3b714"></path>
+                        <path d="M1693.14 652.79 a49.02 49.02 0 1 0 98.04 0 a49.02 49.02 0 1 0 -98.04 0z" fill="rgba(66, 79, 90, 1)"></path>
+                        <path d="M1782.48 651.36L1825.87 651.36L1825.87 690.99L1782.48 690.99z" stroke="rgba(66, 79, 90, 1)"></path>
+                        <path d="M1020.62 723.62L1020.77 723.62L1020.77 723.77L1020.62 723.77z" stroke="#e73635"></path>
+                        <path d="M940.64 354.98a10.15 10.15 0 1 0-13.81-14.88z" fill="#d3b714"></path>
+                        <path d="M1338.49 181.95 a3.58 3.58 0 1 0 7.16 0 a3.58 3.58 0 1 0 -7.16 0z" stroke="#037b0b"></path>
+                        <path d="M1859.09 288.81L1907.95 288.81L1907.95 327.23L1859.09 327.23z" stroke="rgba(66, 79, 90, 1)"></path>
+                        <path d="M1071.94 520.17L1103.43 520.17L1103.43 568.02L1071.94 568.02z" fill="#037b0b"></path>
+                        <path d="M761.41 401.59L848.19 401.59L848.19 404.43L761.41 404.43z" stroke="#d3b714"></path>
+                        <path d="M120.94 743.52L209.66 743.52L209.66 832.24L120.94 832.24z" stroke="#d3b714"></path>
+                        <path d="M102.71 407.23a12.46 12.46 0 1 0 2.99-24.74z" fill="#e73635"></path>
+                        <path d="M1015.19 854.11L1021.48 854.11L1021.48 860.4L1015.19 860.4z" stroke="rgba(66, 79, 90, 1)"></path>
+                        <path d="M1748.83 275.93L1798.14 275.93L1798.14 358.6L1748.83 358.6z" fill="#e73635"></path>
+                        <path d="M1103.24 380.64a49.4 49.4 0 1 0 60.22 78.33z" stroke="#d3b714"></path>
+                        <path d="M612.16 880.49 a56.53 56.53 0 1 0 113.06 0 a56.53 56.53 0 1 0 -113.06 0z" stroke="rgba(66, 79, 90, 1)"></path>
+                        <path d="M420.52 189.03L427.62 189.03L427.62 255.92L420.52 255.92z" fill="#037b0b"></path>
+                        <path d="M1329.11 490.87L1411.47 490.87L1411.47 543.36L1329.11 543.36z" stroke="#037b0b"></path>
+                        <path d="M1793.65 68.42 a73.33 73.33 0 1 0 146.66 0 a73.33 73.33 0 1 0 -146.66 0z" fill="#d3b714"></path>
+                        <path d="M99.19 590.89 a35.77 35.77 0 1 0 71.54 0 a35.77 35.77 0 1 0 -71.54 0z" stroke="#d3b714"></path>
+                        <path d="M852.29 667.33 a23.53 23.53 0 1 0 47.06 0 a23.53 23.53 0 1 0 -47.06 0z" fill="rgba(66, 79, 90, 1)"></path>
+                        <path d="M80.8-26.53a60.84 60.84 0 1 0-63.45 103.83z" fill="#d3b714"></path>
+                        <path d="M705.22 443.93L749.06 443.93L749.06 483.67L705.22 483.67z" stroke="#037b0b"></path>
+                        <path d="M1344.35 161a86.46 86.46 0 1 0 79.74-153.43z" fill="#d3b714"></path>
+                    </g>
+                    <defs>
+                        <mask id="SvgjsMask1537">
+                            <rect width="1920" height="900" fill="#ffffff"></rect>
+                        </mask>
+                        <linearGradient x1="13.28%" y1="-28.33%" x2="86.72%" y2="128.33%" gradientUnits="userSpaceOnUse" id="SvgjsLinearGradient1538">
+                            <stop stop-color="#0e2a47" offset="0"></stop>
+                            <stop stop-color="#00459e" offset="1"></stop>
+                        </linearGradient>
+                    </defs>
+                </svg>

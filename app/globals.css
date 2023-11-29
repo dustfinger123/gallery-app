@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Great+Vibes&family=Major+Mono+Display&family=Megrim&family=Moirai+One&family=Playball&family=Qwitcher+Grypen:wght@400;700&family=Tangerine:wght@400;700&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Poppins:wght@200;300;400;500;600&display=swap&family=Sacramento&family=Alice&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .blob-border {
+        border-radius: 64% 36% 62% 38% / 39% 34% 66% 61%;
+    }
+
+    
+
+    .iterate {
+        animation-iteration-count: 1;
+    }
+
+    .clip-your-needful-style {
+        clip-path: path("M4.610409999999999 0 C4.610409999999999 1.0931899999999997 4.78630030651306 1.501064688836889 4.23970530651306 2.4477949999999993 S3.25193531116311 3.446137181861813 2.305205 3.992732181861813 S1.0931899999999999 4.895589999999999 2.9976843117188953e-16 4.895589999999999 S-1.3584746888368884 4.539327181861813 -2.3052049999999986 3.9927321818618133 S-3.6931103065130584 3.3945253111631115 -4.239705306513058 2.4477950000000015 S-4.610409999999999 1.0931900000000003 -4.610409999999999 5.646123849256947e-16 S-4.786300306513059 -1.501064688836888 -4.23970530651306 -2.4477949999999984 S-3.2519353111631117 -3.446137181861811 -2.3052050000000017 -3.9927321818618116 S-1.0931900000000006 -4.895589999999999 -8.993052935156685e-16 -4.895589999999999 S1.358474688836886 -4.539327181861814 2.3052049999999964 -3.9927321818618147 S3.693110306513058 -3.394525311163112 4.239705306513058 -2.447795000000002 S4.610409999999999 -1.0931900000000008 4.610409999999999 -1.1292247698513894e-15");
+    }
+
+    .bg-gradient {
+        background-image: linear-gradient(-45deg, rgb(53, 143, 56) 0%, #3da842 100%);;
+    }
+
+    .box-shadow {
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    }
+
+    .border-bottom-right-radius {
+        border-bottom-right-radius: max(50vw, 50vh);
+    }
+    .border-top-left-radius {
+        border-top-left-radius: max(50vw, 50vh);
+    }
+
+    .flip-card {
+      background-color: transparent;
+      width: 100%;
+      height: 100%;
+      perspective: 1000px;
+    }
+  
+    .flip-card-inner {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      text-align: center;
+      transition: transform 0.6s;
+      transform-style: preserve-3d;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    }
+  
+    .flip-card-inner-rotateY {
+      transform: rotateY(180deg);
+    }
+  
+    .flip-card-inner-rotateZ {
+      transform: rotateX(180deg);
+    }
+  
+    .flip-card-front,
+    .flip-card-back {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      -webkit-backface-visibility: hidden;
+      backface-visibility: hidden;
+    }
+  
+    .flip-card-front {
+      background-color: #bbb;
+      color: black;
+    }
+  
+    .flip-card-back {
+      background-color: #2980b9;
+      color: white;
+      transform: rotateY(180deg);
+    }
+  
+}
+
